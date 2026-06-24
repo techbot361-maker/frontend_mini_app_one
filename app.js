@@ -1,5 +1,5 @@
 const tg = window.Telegram.WebApp;
-const apiURL = "https://mini-app-one.onrender.com"; // <-- APNA RENDER API URL YAHA RAKHO
+const apiURL = "https://mini-app-one-azrf.onrender.com"; // <-- APNA RENDER API URL YAHA RAKHO
 let userId = "UNKNOWN";
 let pollingInterval;
 
